@@ -1,0 +1,10 @@
+E:\hy\WWW\CornerTipForm\DEMO\bin\Debug\DEMO.exe
+E:\hy\WWW\CornerTipForm\DEMO\bin\Debug\DEMO.pdb
+E:\hy\WWW\CornerTipForm\DEMO\bin\Debug\CornerTipForm.exe
+E:\hy\WWW\CornerTipForm\DEMO\bin\Debug\CornerTipForm.pdb
+E:\hy\WWW\CornerTipForm\DEMO\obj\Debug\ResolveAssemblyReference.cache
+E:\hy\WWW\CornerTipForm\DEMO\obj\Debug\Demo.Form1.resources
+E:\hy\WWW\CornerTipForm\DEMO\obj\Debug\DEMO.Properties.Resources.resources
+E:\hy\WWW\CornerTipForm\DEMO\obj\Debug\DEMO.csproj.GenerateResource.Cache
+E:\hy\WWW\CornerTipForm\DEMO\obj\Debug\DEMO.exe
+E:\hy\WWW\CornerTipForm\DEMO\obj\Debug\DEMO.pdb
